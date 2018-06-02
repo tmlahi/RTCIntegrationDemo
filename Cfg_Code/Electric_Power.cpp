@@ -15,7 +15,7 @@
 //## package P1_Design
 
 //## class Electric_Power
-Electric_Power::Electric_Power(IOxfActive* theActiveContext) : Charge(110) {
+Electric_Power::Electric_Power(IOxfActive* theActiveContext) : Charge(120) {
     setActiveContext(theActiveContext, false);
     initStatechart();
 }
