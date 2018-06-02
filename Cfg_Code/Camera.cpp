@@ -17,7 +17,7 @@
 //## package P1_Design
 
 //## class Camera
-Camera::Camera(IOxfActive* theActiveContext) : imageSize(2700), maxSpace(50000) {
+Camera::Camera(IOxfActive* theActiveContext) : imageSize(2800), maxSpace(50000) {
     setActiveContext(theActiveContext, false);
     itsEP = NULL;
     initStatechart();
