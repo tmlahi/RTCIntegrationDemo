@@ -1,6 +1,6 @@
 /********************************************************************
 	Rhapsody	: 8.3 
-	Login		: Philippe Leblanc
+	Login		: Tarik
 	Component	: Cmp_Code 
 	Configuration 	: Cfg_Code
 	Model Element	: Flying_Camera
